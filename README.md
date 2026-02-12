@@ -1,6 +1,6 @@
 # Hardware Sales Analysis - India Market (2017-2020)
 
-![Dashboard Preview](Hardware Sales Analysis India.png)
+![Dashboard Preview](Hardware%20Sales%20Analysis%20India.png)
 
 
 
