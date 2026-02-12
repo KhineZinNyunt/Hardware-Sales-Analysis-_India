@@ -38,7 +38,7 @@ Analyzed **150,283 transactions** to identify revenue trends, customer concentra
 --------------------------------------------------------------------
 | Visual         | Description                                     |
 |----------------|-------------------------------------------------|
-| **KPI Cards**  | Total Revenue, Total Sales Qty, Total Customers |
+| **KPI Cards**  | Total Revenue,Total Sales Qty,Active Customers  |
 | **Bar Chart**  | Revenue by Customer                             |
 | **Bar Chart**  | Top 5 Customers                                 |
 | **Bar Chart**  | Top 5 Products                                  |
