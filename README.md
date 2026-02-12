@@ -9,7 +9,7 @@
 End-to-end data analytics project for a hardware distributor operating across **17 cities in India**. 
 Analyzed **150,283 transactions** to identify revenue trends, customer concentration risks, and market expansion opportunities.
 -------------------------------------------------
-|      Metric         |           Value          |
+|  Metric             | Value                    |
 |---------------------|--------------------------|
 | Transactions        | 150,283                  |
 | Customers           | 38                       |
@@ -22,13 +22,13 @@ Analyzed **150,283 transactions** to identify revenue trends, customer concentra
 
 **Project Workflow**
  --------------------------------------------------------------------------------------------------------
-| Step |     Tool        |                             Task                                             |
+| Step | Tool            | Task                                                                         |
 |------|-----------------|------------------------------------------------------------------------------|
 | 1️⃣  | **MySQL**       | Imported Sales.csv file using Table Data Import Wizard                        |
 | 2️⃣  | **MySQL**       | Data exploration: row counts, date ranges, duplicates, currency               |
 | 3️⃣  | **Power Query** | Data cleaning: removed duplicates, filtered invalid data, converted USD → INR |
 | 4️⃣  | **Power BI**    | Created relationships (star schema)                                           |
-| 5️⃣  | **Power BI**    | Built DAX measures:Active Customers, Revenue, Sales Quantity,etc.              |
+| 5️⃣  | **Power BI**    | Built DAX measures:Active Customers, Revenue, Sales Quantity,etc.             |
 | 6️⃣  | **Power BI**    | Designed one-page dashboard                                                   |
 | 7️⃣  | **GitHub**      | Published portfolio                                                           |
  --------------------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ Analyzed **150,283 transactions** to identify revenue trends, customer concentra
 
 **Dashboard Visuals**
 --------------------------------------------------------------------
-|      Visual    |                    Description                  |
+| Visual         | Description                                     |
 |----------------|-------------------------------------------------|
 | **KPI Cards**  | Total Revenue, Total Sales Qty, Total Customers |
 | **Bar Chart**  | Revenue by Customer                             |
@@ -49,7 +49,7 @@ Analyzed **150,283 transactions** to identify revenue trends, customer concentra
 
  **Repository Contents**
 --------------------------------------------------------------------------------------------
-|               File                  |                     Description                    |
+|   File                              | Description                                        |
 |-------------------------------------|----------------------------------------------------|
 | `Hardware Sales Analysis India.pbix`| Power BI dashboard file                            |
 | `Hardware Sales Analysis India.pdf` | PDF export of dashboard                            |
